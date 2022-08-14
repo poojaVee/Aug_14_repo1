@@ -1,0 +1,108 @@
+C:\Program Files (x86)\Microsoft VS Code\bin
+
+to merge a branch with main
+1. created a branch "sagar-task-2" from "main"
+2. did changes in "sagar-task-2" and pushed
+3. raise/ create a pull request
+--> selecte branch in cloud github, click contribute
+4. (review if any) and merge pull request
+
+
+
+
+git link of sagar_gavand (faculty)
+
+https://github.com/gavand-sagar/fsd-git-public-algorithms.git
+
+
+
+Conflict resolution procedure 
+
+1. pull the current branch with conflict
+2. make sure there is no change in current branch
+3. checkout main branch
+4. pull main branch
+5. go back to conflict branch
+6. merge main branch
+7. resolve conflict
+8. save file
+9. stage file (plus button)
+10 commit
+11 push
+
+
+procudure to change anything in main branch 
+(change anything means ==>
+1. adding a new file
+2. deleting an old file
+3. modifing an old file
+)
+
+
+1. create a branch from main branch
+2. publish new branch
+3. open pull request
+4. merge pull request
+
+
+13/Aug
+=============
+
+position
+1.relative -> adding offsets wrt. original position
+
+2.fixed --> adding offsets wrt. document
+
+3.sticky --> in original position but if you scroll it will be fixed
+
+4.absolute -> adding offsets wrt. parent(parent must have position applied other than static)
+
+5 static --> default
+------------------------------------------------
+https://www.w3schools.com/howto/
+---------------------------------------------
+
+
+
+ANIMATION
+---------------------
+.glow {
+            height: 30px;
+            width: 100px;
+            background-color: green;      
+            animation: custom-blink 1s forwards infinite linear;
+        }
+
+        @keyframes custom-blink {
+            0% {
+                background-color: yellow;               
+            }
+
+           
+
+            100% {
+                
+                background-color: red;
+            }
+        }
+---------------------------------------------------------
+GIT link
+
+https://github.com/gavand-sagar/fsd-weekend-morning-html.git
+-------------------------------------------------------
+
+14-Aug-2022
+================
+@media screen and (max-width: 767px) {}
+ 
+for mobile and desktop view difference
+-----------------------------------------
+
+link for symbols
+
+https://www.amp-what.com/unicode/search/eye
+-------------------------------------------------------------------------
+
+
+
+
